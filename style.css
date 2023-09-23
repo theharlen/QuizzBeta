@@ -1,0 +1,13 @@
+/* Em um arquivo de estilo externo ou na seção <style> do seu HTML */
+body {
+    background-color: lightgray;
+    color: navy;
+    background-image: url('back_quizz2.jpg');
+    background-size: cover;    
+}
+
+/* Para estilizar o botão de verificação */
+#verificar {
+    background-color: green;
+    color: white;
+}
